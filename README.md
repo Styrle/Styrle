@@ -17,5 +17,5 @@ Python with projects based on machine learning
 - 💬 About me  
 In my free time I enjoy playing video games and staying fit.
 - 📫 How to reach me  
-[Email](joshserpis@gmail.com)  
-[Instagram](https://www.instagram.com/joshua_serpis/)
+Email: joshserpis@gmail.com  
+Instagram: [joshua_serpis](https://www.instagram.com/joshua_serpis/)
