@@ -9,7 +9,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on  
 [Strength Analysed](https://github.com/Styrle/CCTP)
 : A project for all your strength tracking needs
-currently being redeveloped from it's form as my final year project.
+currently being redeveloped from it's form as my final year project.  
+
+  [Strength Formulas](https://github.com/Styrle/Strength-formulas)
+: A project to showing the difference in equations used to calculate strength  
+
 - 🌱 I’m currently learning  
 Python with projects based on machine learning
 - 👯 I’m looking to collaborate on  
