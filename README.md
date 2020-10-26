@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->  
 
 - 🔭 I’m currently working on  
-[Strength Analysed](https://github.com/Styrle/Strength-calculated)
+[Strength Calculated](https://github.com/Styrle/Strength-calculated)
 : A project for all your strength tracking needs
 currently being redeveloped from it's form as my final year project.  
 
@@ -17,7 +17,7 @@ currently being redeveloped from it's form as my final year project.
 - 🌱 I’m currently learning  
 Python with projects based on machine learning
 - 👯 I’m looking to collaborate on  
-[Strength Analysed](https://github.com/Styrle/Strength-calculated): backend development support
+[Strength Calculated](https://github.com/Styrle/Strength-calculated): backend development support
 - 💬 About me  
 In my free time I enjoy playing video games and staying fit.
 - 📫 How to reach me  
