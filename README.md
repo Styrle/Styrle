@@ -19,7 +19,7 @@ Python with projects based on machine learning
 - 👯 I’m looking to collaborate on  
 [Strength Calculated](https://github.com/Styrle/Strength-calculated): backend development support
 - 💬 About me  
-In my free time I enjoy playing video games and staying fit.
+In my free time I enjoy playing video games and staying fit. I have also just completed my BSc in digital media, covering subjects around interaction design and full lifecycle development of web projects.
 - 📫 How to reach me  
 Email: joshserpis@gmail.com  
 Instagram: <a href="https://www.instagram.com/joshua_serpis/" target="_blank">joshua_serpis</a>
