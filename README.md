@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 currently being redeveloped from it's form as my final year project.  
 
   [Strength Formulas](https://github.com/Styrle/Strength-formulas)
-: A project to showing the difference in equations used to calculate strength  
+: A project to showing the different equations used to calculate strength  
 
 - 🌱 I’m currently learning  
 Python with projects based on machine learning
