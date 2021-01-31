@@ -22,5 +22,5 @@ Python with projects based on machine learning
 In my free time I enjoy playing video games and staying fit, often competing in strength sports such as powerlifting. I have also just completed my BSc in digital media, covering subjects around interaction design and full lifecycle development of web projects.
 - 📫 How to reach me  
 Email: joshserpis@gmail.com  
-Instagram: <a href="https://www.instagram.com/joshua_serpis/" target="_blank">joshua_serpis</a>
+Instagram: <a href="https://www.instagram.com/joshua_serpis/" target="_blank">joshua_serpis</a>  
 Twitter: <a href="https://twitter.com/Joshua_serpis" target="-twitter">Joshua Serpis</a>
