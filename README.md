@@ -15,7 +15,7 @@ currently being redeveloped from it's form as my final year project.
 : A project to showing the different equations used to calculate strength  
 
 - 🌱 I’m currently learning  
-Python with projects based on machine learning  
+Sass & redux working on a variety of projects.    
 - 💬 About me  
 In my free time I enjoy playing video games and staying fit, often competing in strength sports such as powerlifting. I have also just completed my BSc in digital media, covering subjects around interaction design and full lifecycle development of web projects.
 - 📫 How to reach me  
