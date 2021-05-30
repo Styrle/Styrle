@@ -21,4 +21,8 @@ In my free time I enjoy playing video games and staying fit, often competing in 
 - 📫 How to reach me  
 Email: joshserpis@gmail.com  
 Instagram: <a href="https://www.instagram.com/joshua_serpis/" target="_blank">joshua_serpis</a>  
-Twitter: <a href="https://twitter.com/Joshua_serpis" target="-twitter">Joshua Serpis</a>
+Twitter: <a href="https://twitter.com/Joshua_serpis" target="-twitter">Joshua Serpis</a>  
+
+- 🗄️ Have a look at my previous work
+- [Portfolio](https://styrle.github.io/Personal-portfolio/work.html)
+
