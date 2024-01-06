@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->  
 
+- 🏡 Work at Kaplan - I am a developer at Kaplan, currently working on front-end development and AI 
+
 - 🔭 I’m currently working on  
 [Strength Calculated](https://github.com/Styrle/Strength-calculated)
 : A project for all your strength tracking needs
