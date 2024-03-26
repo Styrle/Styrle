@@ -25,6 +25,7 @@ Email: jserpis@hotmail.co.uk
 Instagram: <a href="https://www.instagram.com/joshua_serpis/" target="_blank">joshua_serpis</a>  
 Twitter: <a href="https://twitter.com/Joshua_serpis" target="-twitter">Joshua Serpis</a>  
 
-- 🗄️ Have a look at my previous work  
-[Portfolio](https://styrle.github.io/Personal-portfolio/work.html)
+- 🗄️ Have a look at my previous work & leetcode stats  
+[Portfolio](https://styrle.github.io/Personal-portfolio/work.html)  
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Styrle)](https://leetcode.com/Styrle)
 
