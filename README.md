@@ -19,7 +19,7 @@ currently being redeveloped from it's form as my final year project.
 - 🌱 I’m currently learning  
 Sass & redux working on a variety of projects.    
 - 💬 About me  
-In my free time I enjoy playing video games and staying fit, often competing in strength sports such as powerlifting. I have also just completed my BSc in digital media, covering subjects around interaction design and full lifecycle development of web projects.
+In my free time I enjoy playing video games and staying fit, often competing in strength sports such as powerlifting.
 - 📫 How to reach me  
 Email: jserpis@hotmail.co.uk  
 Instagram: <a href="https://www.instagram.com/joshua_serpis/" target="_blank">joshua_serpis</a>  
