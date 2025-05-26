@@ -8,13 +8,13 @@ Here are some ideas to get you started:
 
 - 🏡 Work at Kaplan - I am a developer, currently working on front-end development and AI 
 
-- 🔭 I’m currently working on  
-[Strength Calculated](https://github.com/Styrle/Strength-calculated)
-: A project for all your strength tracking needs
+- 🔭 I’m currently working on
+<a href="http://github.com/Styrle/Strength-calculated" target="_blank">Strength Calculated:</a>
+ A project for all your strength tracking needs
 currently being redeveloped from it's form as my final year project.  
 
-  [Strength Formulas](https://github.com/Styrle/Strength-formulas)
-: A project to showing the different equations used to calculate strength  
+<a href="https://github.com/Styrle/Strength-formulas" target="_blank">Strength Formulas:</a>
+ A project to showing the different equations used to calculate strength  
 
 - 🌱 I’m currently learning  
 Sass & redux working on a variety of projects.    
